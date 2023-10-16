@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+P{
+    font-size: 50px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.heros{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    text-align: center;
+    row-gap: 30px;
+}
+
+.column-2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    text-align: center;
+}
+
+.column-3{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    text-align: center;
+}
+
+
+#hero1{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+
+img{
+    padding-top: 20px;
+}
+
+#hero2{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+#hero3{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+#hero4{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+#hero5{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+#hero6{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+#hero7{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+#hero8{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+#hero9{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+#hero10{
+    border: 5px solid #e5e5e5 ;
+    border-radius: 10px;
+    width: 180px;
+}
+
+
+
+
+
+
